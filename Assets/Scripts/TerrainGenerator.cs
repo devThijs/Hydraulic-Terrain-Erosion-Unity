@@ -5,6 +5,8 @@ public class TerrainGenerator : MonoBehaviour {
 
     public bool printTimers;
 
+    public bool autoUpdate;
+    
     [Header ("Mesh Settings")]
     public int mapSize = 255;
     public float scale = 20;

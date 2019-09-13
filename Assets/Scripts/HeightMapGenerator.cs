@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+
 public class HeightMapGenerator : MonoBehaviour {
     public int seed;
     public bool randomizeSeed;
